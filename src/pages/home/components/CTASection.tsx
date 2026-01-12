@@ -31,7 +31,7 @@ export default function CTASection() {
             {/* Company Info */}
             <div>
               <img
-                src="https://static.readdy.ai/image/18671f7eb99f08d461ba955a5a647ddc/cee7bcbc6db7077abe2d6780cd0be7b5.png"
+                src="/logo.png"
                 alt="Profinx"
                 className="h-10 mb-4 brightness-0 invert"
               />

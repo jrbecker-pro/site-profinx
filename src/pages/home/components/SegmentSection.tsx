@@ -11,67 +11,67 @@ const segments: Segment[] = [
   {
     id: 1,
     name: 'Arquitetura',
-    image: 'https://readdy.ai/api/search-image?query=Modern%20minimalist%20architecture%20office%20workspace%20with%20clean%20design%20blueprints%20and%20professional%20tools%20on%20elegant%20desk%2C%20sophisticated%20corporate%20environment%20emphasizing%20precision%20and%20creativity%20in%20architectural%20profession%2C%20natural%20lighting%20creating%20professional%20atmosphere&width=600&height=400&seq=architecture-segment-profinx&orientation=landscape',
+    image: '/arquitetura-segment.jpg',
     description: 'Gestão especializada para escritórios de arquitetura'
   },
   {
     id: 2,
     name: 'Advocacia',
-    image: 'https://readdy.ai/api/search-image?query=Professional%20law%20office%20environment%20with%20elegant%20legal%20books%20and%20modern%20workspace%2C%20sophisticated%20corporate%20setting%20emphasizing%20trust%20and%20expertise%20in%20legal%20profession%2C%20clean%20minimalist%20design%20with%20natural%20lighting%20creating%20authoritative%20atmosphere&width=600&height=400&seq=law-segment-profinx&orientation=landscape',
+    image: '/advocacia-segment.jpg',
     description: 'Controle financeiro para escritórios de advocacia'
   },
   {
     id: 3,
     name: 'Medicina',
-    image: 'https://readdy.ai/api/search-image?query=Modern%20medical%20professional%20office%20with%20clean%20minimalist%20design%20and%20sophisticated%20workspace%2C%20professional%20healthcare%20environment%20emphasizing%20precision%20and%20care%2C%20elegant%20consultation%20room%20with%20natural%20lighting%20creating%20trustworthy%20atmosphere&width=600&height=400&seq=medical-segment-profinx&orientation=landscape',
+    image: '/medicina-segment.jpg',
     description: 'Gestão financeira para consultórios médicos'
   },
   {
     id: 4,
     name: 'Clínicas',
-    image: 'https://readdy.ai/api/search-image?query=Contemporary%20healthcare%20clinic%20reception%20area%20with%20modern%20minimalist%20design%2C%20professional%20medical%20facility%20environment%20emphasizing%20cleanliness%20and%20efficiency%2C%20sophisticated%20waiting%20room%20with%20natural%20lighting%20creating%20welcoming%20atmosphere&width=600&height=400&seq=clinic-segment-profinx&orientation=landscape',
+    image: '/clinicas-segmento.jpg',
     description: 'Soluções completas para clínicas de saúde'
   },
   {
     id: 5,
     name: 'Agências de Marketing',
-    image: 'https://readdy.ai/api/search-image?query=Creative%20modern%20marketing%20agency%20workspace%20with%20collaborative%20environment%20and%20innovative%20design%20elements%2C%20professional%20office%20emphasizing%20creativity%20and%20strategy%2C%20clean%20contemporary%20space%20with%20natural%20lighting%20fostering%20productive%20atmosphere&width=600&height=400&seq=marketing-segment-profinx&orientation=landscape',
+    image: '/agenciasmarketing-segment.jpg',
     description: 'Gestão financeira para agências criativas'
   },
   {
     id: 6,
     name: 'Psicologia',
-    image: 'https://readdy.ai/api/search-image?query=Serene%20professional%20psychology%20consultation%20room%20with%20comfortable%20minimalist%20design%2C%20therapeutic%20environment%20emphasizing%20trust%20and%20confidentiality%2C%20elegant%20office%20space%20with%20natural%20lighting%20creating%20calm%20peaceful%20atmosphere&width=600&height=400&seq=psychology-segment-profinx&orientation=landscape',
+    image: '/psicologia-segment.jpg',
     description: 'Controle financeiro para consultórios de psicologia'
   },
   {
     id: 7,
     name: 'Tecnologia e Startups (SaaS)',
-    image: 'https://readdy.ai/api/search-image?query=Modern%20innovative%20technology%20startup%20office%20workspace%20with%20collaborative%20open%20space%20design%2C%20contemporary%20SaaS%20company%20environment%20emphasizing%20innovation%20and%20growth%2C%20sleek%20minimalist%20tech%20workspace%20with%20natural%20lighting%20creating%20dynamic%20productive%20atmosphere%20for%20software%20development%20teams&width=600&height=400&seq=tech-startup-segment-profinx&orientation=landscape',
+    image: '/tecnologia-segment.jpg',
     description: 'Gestão financeira para empresas de tecnologia'
   },
   {
     id: 8,
     name: 'Estética e Bem-estar',
-    image: 'https://readdy.ai/api/search-image?query=Elegant%20modern%20aesthetic%20clinic%20spa%20interior%20with%20luxurious%20minimalist%20design%2C%20sophisticated%20wellness%20center%20environment%20emphasizing%20beauty%20and%20relaxation%2C%20premium%20treatment%20room%20with%20natural%20lighting%20creating%20serene%20tranquil%20atmosphere%20for%20aesthetic%20procedures%20and%20wellness%20services&width=600&height=400&seq=aesthetic-clinic-segment-profinx&orientation=landscape',
+    image: '/estetica-segment.jpg',
     description: 'Controle financeiro para clínicas de estética'
   },
   {
     id: 9,
     name: 'Escolas de Cursos Livres',
-    image: 'https://readdy.ai/api/search-image?query=Contemporary%20modern%20educational%20training%20center%20classroom%20with%20professional%20learning%20environment%2C%20sophisticated%20course%20school%20interior%20emphasizing%20knowledge%20and%20development%2C%20clean%20organized%20teaching%20space%20with%20natural%20lighting%20creating%20inspiring%20atmosphere%20for%20professional%20education%20and%20skill%20development&width=600&height=400&seq=education-school-segment-profinx&orientation=landscape',
+    image: '/cursos-segment.jpg',
     description: 'Gestão financeira para instituições de ensino'
   },
   {
     id: 10,
     name: 'Academias',
-    image: 'https://readdy.ai/api/search-image?query=Modern%20premium%20fitness%20gym%20facility%20with%20professional%20equipment%20and%20clean%20minimalist%20design%2C%20sophisticated%20health%20club%20environment%20emphasizing%20wellness%20and%20performance%2C%20spacious%20training%20area%20with%20natural%20lighting%20creating%20motivating%20energetic%20atmosphere%20for%20fitness%20and%20exercise%20activities&width=600&height=400&seq=gym-fitness-segment-profinx&orientation=landscape',
+    image: '/academia-segment.jpg',
     description: 'Soluções financeiras para academias e centros fitness'
   },
   {
     id: 11,
     name: 'Engenharia e Consultoria',
-    image: 'https://readdy.ai/api/search-image?query=Professional%20engineering%20consulting%20firm%20office%20with%20technical%20blueprints%20and%20modern%20workspace%2C%20sophisticated%20corporate%20environment%20emphasizing%20expertise%20and%20precision%2C%20clean%20organized%20workspace%20with%20natural%20lighting%20creating%20authoritative%20atmosphere%20for%20engineering%20projects%20and%20strategic%20consulting%20services&width=600&height=400&seq=engineering-consulting-segment-profinx&orientation=landscape',
+    image: '/engenharia-segment.jpg',
     description: 'Gestão especializada para empresas de engenharia'
   }
 ];

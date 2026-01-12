@@ -29,7 +29,7 @@ export default function HeroSection() {
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <img
-                src={scrolled ? "/logo-branco.png" : "/logo-azul.png"}
+                src={scrolled ? "/logo-azul.png" : "/logo.png"}
                 alt="Profinx"
                 className="h-11"
               />

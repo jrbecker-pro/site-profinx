@@ -43,7 +43,7 @@ export default function TrustSection() {
             <div className="bg-gradient-to-br from-gray-50 to-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all">
               <div className="mb-6">
                 <img
-                  src="https://static.readdy.ai/image/18671f7eb99f08d461ba955a5a647ddc/b2c1a606238d4e48df8de15dd97adbf3.png"
+                  src="/bianka.png"
                   alt="Bianka Souza - Fundadora e Especialista em Consultoria Financeira Estratégica"
                   className="w-48 h-48 rounded-xl object-cover object-top mx-auto shadow-md"
                 />
@@ -80,7 +80,7 @@ export default function TrustSection() {
             <div className="bg-gradient-to-br from-gray-50 to-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all">
               <div className="mb-6">
                 <img
-                  src="https://static.readdy.ai/image/18671f7eb99f08d461ba955a5a647ddc/fff3b3ff02dfb79f758f56bde198f5a4.png"
+                  src="/junior.png"
                   alt="Junior Becker - Co-fundador e Líder em Inovação e Tecnologia Financeira"
                   className="w-48 h-48 rounded-xl object-cover object-top mx-auto shadow-md"
                 />

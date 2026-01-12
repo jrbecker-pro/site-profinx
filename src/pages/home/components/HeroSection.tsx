@@ -16,7 +16,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://readdy.ai/api/search-image?query=Modern%20professional%20financial%20business%20office%20environment%20with%20clean%20minimalist%20design%2C%20sophisticated%20corporate%20workspace%20with%20natural%20lighting%2C%20abstract%20geometric%20patterns%20suggesting%20data%20and%20technology%2C%20professional%20atmosphere%20emphasizing%20trust%20and%20innovation%20in%20financial%20consulting%20sector&width=1920&height=1080&seq=profinx-hero-background-new&orientation=landscape"
+          src="/banner-principal.jpg"
           alt="Background"
           className="w-full h-full object-cover"
         />
@@ -29,7 +29,7 @@ export default function HeroSection() {
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <img
-                src={scrolled ? "https://static.readdy.ai/image/18671f7eb99f08d461ba955a5a647ddc/cee7bcbc6db7077abe2d6780cd0be7b5.png" : "https://static.readdy.ai/image/18671f7eb99f08d461ba955a5a647ddc/b5144c8c999f69528537c6332d6d7b45.png"}
+                src={scrolled ? "/logo-azul.png" : "/logo-branco.png"}
                 alt="Profinx"
                 className="h-11"
               />

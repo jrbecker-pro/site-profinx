@@ -11,31 +11,31 @@ const partners: Partner[] = [
   {
     id: 1,
     name: 'Omie',
-    logo: 'https://www.omie.com.br/assets/images/logo-omie.png',
+    logo: '/omie-logo.png',
     url: 'https://www.omie.com.br'
   },
   {
     id: 2,
     name: 'Conta Azul',
-    logo: 'https://contaazul.com/logos/ca-logo.svg',
+    logo: '/contaazul-logo.svg',
     url: 'https://contaazul.com'
   },
   {
     id: 3,
     name: 'Nibo',
-    logo: 'https://cdn.prod.website-files.com/67085d29fb421bec47d13b8a/6744af5a0c67c8e2fb36cdbe_nb-logo-txt.png',
+    logo: '/nibo-logo.png',
     url: 'https://nibo.com.br'
   },
   {
     id: 4,
     name: 'Sofia',
-    logo: 'https://assets.strapi.usesofia.com/uploads/logo_branca_edb74823e5.svg',
+    logo: '/sofia-logo.svg',
     url: 'https://usesofia.com'
   },
   {
     id: 5,
     name: 'PlayBPO',
-    logo: 'https://playbpo.com.br/wp-content/uploads/2025/09/Logo-PlayBPO.png',
+    logo: '/Logo-PlayBPO.png',
     url: 'https://playbpo.com.br'
   }
 ];

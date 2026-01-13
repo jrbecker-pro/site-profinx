@@ -31,7 +31,7 @@ export default function CTASection() {
             {/* Company Info */}
             <div>
               <img
-                src="/logo.png"
+                src="/logo-branco.svg"
                 alt="Profinx"
                 className="h-10 mb-4 brightness-0 invert"
               />

@@ -35,7 +35,7 @@ export default function HomePage() {
     }
   ];
 
-  const siteUrl = import.meta.env.VITE_SITE_URL || 'https://profinx.com';
+  const siteUrl = import.meta.env.VITE_SITE_URL || 'https://profinx.com.br';
 
   const structuredData = {
     '@context': 'https://schema.org',

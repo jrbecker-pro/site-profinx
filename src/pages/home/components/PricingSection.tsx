@@ -9,6 +9,8 @@ export default function PricingSection() {
         'Gestão de Recebíveis (Até 20 documentos/mês)',
         'Gestão de Obrigações (Até 40 pagamentos/mês, sem multas)',
         'Conciliação Bancária Diária (1 conta bancária)',
+        'Agendamento Bancário',
+        'Emissão de Notas Fiscais e Boletos',
         'Visibilidade de Caixa (Relatório Realizado vs. Previsto)',
         'Atendimento Consultivo com Gerente de Contas Exclusivo'
       ],

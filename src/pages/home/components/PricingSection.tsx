@@ -12,7 +12,7 @@ export default function PricingSection() {
         'Agendamento Bancário',
         'Emissão de Notas Fiscais e Boletos',
         'Visibilidade de Caixa (Relatório Realizado vs. Previsto)',
-        'Atendimento Consultivo com Gerente de Contas Exclusivo'
+        'Atendimento Consultivo com Gerente de Contas'
       ],
       highlighted: false
     },
